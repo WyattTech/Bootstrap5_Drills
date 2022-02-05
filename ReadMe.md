@@ -1,8 +1,11 @@
-#Bootstrap 4 Drills
+# Bootstrap 4 Drills
+
 The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its class based styling.
 
-##Steps
-###Setup
+## Steps
+
+### Setup
+
 - Create a new folder for these drills, title it Bootstrap 4 Drills
 - Go ahead and initialize a git repository on this project so it will be available to view on your github account.
 - Create a README.md file, copy and past these drill instructions into that file.
@@ -20,7 +23,9 @@ The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its 
 - Lets try to center align our h1! Go to the previous link to explore how to do so.
 - Hint: Jump to the horizontal alignment section of bootstraps documents
 - Add a new div with class row beneath the other row div, this will be another "section" row of elements. Add 3 divs within the row, give each some text of your choice and apply bootstrap styling to have 1 div appear at the start of the row, one in the center, and one at the end.
-##Bootstrap Forms
+
+## Bootstrap Forms
+
 - Use this link for reference for the next section:
 - Create another div class row beneath the previous row.
 - Create a form inside of the existing container and your newly created row.
@@ -34,7 +39,9 @@ The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its 
 - Hint: Use Bootstrap classes!
 - Add a padding of 3 to your form using Bootstrap utilities.
 - After some styling, your form should resemble something like this masterpiece.
-##Cards
+
+## Cards
+
 - Refer to this link for more information on cards.
 - Beneath the previous row div, but inside the container, create a another row div.
 - Within the new row, create a basic card with a card body and have it have an h3 which will be a friends name, and a paragraph element containing a small piece of info on your friend. Create 6 of these cards.
@@ -43,7 +50,7 @@ The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its 
 - Hint: Use Bootstrap's col system to make the cards 2 per row.
 - It should look like this example.
 - Once you get them aligning 2 per row, change it so it is 3 per row.
- cvLike this example.
-Notice! Let's go practice some more Bootstrap by recreating a resume design.
+- Like this example.
+ - Notice! Let's go practice some more Bootstrap by recreating a resume design.
 
-Task attributed to [Covalence](https://gravity.covalence.io/portal)
+#### Task attributed to [Covalence](https://gravity.covalence.io/portal)
